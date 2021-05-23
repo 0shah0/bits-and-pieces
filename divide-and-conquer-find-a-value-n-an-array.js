@@ -1,4 +1,4 @@
-let findaValue = (hs, n)=>{
+let findValue = (hs, n)=>{
    if(hs.length == 1)
    return (hs[0] == n);
    
